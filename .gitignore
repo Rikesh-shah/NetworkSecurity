@@ -2,3 +2,6 @@ venv/
 .env
 __pycache__/
 logs/
+mlruns/
+Artifacts/
+final_model/
